@@ -1,0 +1,56 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size{
+    height: 65px;
+}
+
+.main-body{
+    background-color: #F28487;
+    color: white;
+    height: calc(100vh - 64px);
+}
+
+
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 300px;
+}
+
+.click-me-button{
+    background-color: #EE6E73;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 100%;
+}
+
+#heading {
+    font-size: 30px; /* Adjust the font size as needed */
+}
+
+.flow-text {
+    font-size: 14px; /* Adjust the font size as needed */
+}
+#heading {
+    font-size: 24px; /* Adjust the heading font size as needed */
+}
+.card {
+    width: 400px; /* Adjust the width as needed */
+    height: 50px;
+}
+.card a {
+    font-size: 15px; /* Adjust the font size as needed */
+}
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
